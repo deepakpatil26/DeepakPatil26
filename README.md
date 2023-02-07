@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakpatil26&label=Profile%20views&color=0e75b6&style=flat" alt="deepakpatil26" /> </p>
-<h1>About Me</h1>
+<h1>💁‍♂️ About Me</h1>
 <p>An Enthusiastic Full-Stack Web Developer who's always willing to learn new things and work across technology and domains.  I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</p>
 
 - 🔭 I’m currently working on **Portfolio**
