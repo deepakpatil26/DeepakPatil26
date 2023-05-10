@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Typescript, Redux and Advanced React**
 
-- 👨‍💻 All of my projects are available at [https://deepakpatil26.github.io/](https://deepakpatil26.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](Portfolio)
 
 - 📫 How to reach me **deepakpatil2612@gmail.com**
 
@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakpatil26&show_icons=true&locale=en" alt="deepakpatil26" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakpatil26&" alt="deepakpatil26" /></p>
+
