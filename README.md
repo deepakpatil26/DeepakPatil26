@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Typescript, Redux and Advanced React**
 
-- 👨‍💻 All of my projects are available at [Portfolio](Portfolio)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jc5NJE0UqJf8AS64RmZiunGfu_ZEoGKa/view?usp=share_link)
+
+- 👨‍💻 All of my projects are available at [Portfolio](https://deepakpatil26.github.io/)
 
 - 📫 How to reach me **deepakpatil2612@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jc5NJE0UqJf8AS64RmZiunGfu_ZEoGKa/view?usp=share_link](https://drive.google.com/file/d/1jc5NJE0UqJf8AS64RmZiunGfu_ZEoGKa/view?usp=share_link)
 
 - ⚡ Fun fact **I like solving DSA problems in free time**
 
