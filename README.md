@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1E6A6u1aNPXANyzZBr2qvI5QUZwlLhYNP/view?usp=sharing" alt="background_img"/>
+<img src="https://drive.google.com/file/d/1covjRCH29v7EAuhO1J7RfQXc2JJei7Hk/view" alt="background_img"/>
 
 <h1 align="center">Hi 👋, I'm Deepak Dilip Patil</h1>
 <h3 align="center">An Aspiring Full Stack Developer</h3>
