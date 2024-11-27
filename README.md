@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **deepakpatil2612@gmail.com**
 
-- ⚡ Fun fact **I like solving DSA problems in free time**
+- ⚡ Fun fact **I like solving DSA problems in my free time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
