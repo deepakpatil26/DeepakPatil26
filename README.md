@@ -1,4 +1,4 @@
-<img src="https://www.google.com/imgres?q=background%20gif%20for%20github%20profile%20of%20developer&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&tbnid=N8Ehn8UbrUx_CM&vet=12ahUKEwjAyvj75fuJAxVdZvUHHceQGlQQM3oECGQQAA..i&w=512&h=384&hcb=2&ved=2ahUKEwjAyvj75fuJAxVdZvUHHceQGlQQM3oECGQQAA"/>
+<img src="https://drive.google.com/file/d/1E6A6u1aNPXANyzZBr2qvI5QUZwlLhYNP/view?usp=sharing"/>
 
 <h1 align="center">Hi 👋, I'm Deepak Dilip Patil</h1>
 <h3 align="center">An Aspiring Full Stack Developer</h3>
