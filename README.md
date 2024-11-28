@@ -42,6 +42,10 @@ I'm an **Aspiring Full Stack Developer** with a passion for building innovative 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakpatil26&theme=radical" alt="GitHub Streak" />
 </div>
 
+### 🔥 Contribution Streak
+
+![Deepak's GitHub Contribution Graph](https://ghchart.rshah.org/deepakpatil26)
+
 ### 🧩 Fun Fact
 
 ⚡ I love solving Data Structures and Algorithms (DSA) problems in my free time - turning complex challenges into elegant solutions!
@@ -57,7 +61,7 @@ I'm an **Aspiring Full Stack Developer** with a passion for building innovative 
 ### 📄 Quick Links
 
 - 👨‍💻 **Portfolio:** [Explore My Projects](https://deepakpatil26.github.io/)
-- �履 **Resume:** [View My Experience](https://drive.google.com/file/d/1TProbtK7r8Obb7RMvOXrAu8Ix7fMAOGK/view?usp=sharing)
+- 📄 **Resume:** [View My Experience](https://drive.google.com/file/d/1TProbtK7r8Obb7RMvOXrAu8Ix7fMAOGK/view?usp=sharing)
 - ✉️ **Email:** deepakpatil2612@gmail.com
 
 ---
