@@ -1,21 +1,25 @@
 # Hi there! I'm Deepak Dilip Patil 👋🚀
 
-## 🌟 Full Stack Developer | Cloud Enthusiast | Problem Solver
+## 🚀 Turning Ideas into Scalable Applications | Cloud Enthusiast | Full Stack Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deepakpatil26&label=Profile%20views&color=0e75b6&style=flat)
 
+![Deepak Patil](https://your-image-link-here)
+
 ### 🔍 About Me
 
-I'm an Aspiring Full Stack Developer passionate about building web applications and cloud solutions.
-🚀 I love working with React, Node.js, and Cloud technologies to create high-performance, scalable applications.
-💡 My goal is to leverage cloud computing and build cutting-edge, efficient web solutions.
- My journey in tech is driven by curiosity, continuous learning, and a love for solving complex problems.
+I'm an **Aspiring Full Stack Developer** passionate about building web applications and cloud solutions.  
+🚀 I love working with **React, Node.js, and Cloud technologies** to create high-performance, scalable applications.  
+💡 My goal is to **leverage cloud computing** and build cutting-edge, efficient web solutions.  
 
 ### 🚀 Current Focus
 
-- 🔭 **Working on:** AWS Services
-- 🌱 **Learning:** TypeScript, Redux, and Advanced React Concepts
-- 💡 **Tech Passion:** Exploring the intersection of cloud computing and modern web development
+- 🔭 **Currently Working on:**  
+  - Integrating AWS services into my applications for scalability and security  
+  - Exploring **AWS Lambda, S3, and DynamoDB** for serverless development  
+  - Enhancing DevOps skills using **CI/CD pipelines**  
+- 🌱 **Learning:** TypeScript, Redux, and Advanced React Concepts  
+- 💡 **Tech Passion:** Exploring the intersection of cloud computing and modern web development  
 
 ### 💻 Tech Arsenal
 
@@ -25,6 +29,9 @@ I'm an Aspiring Full Stack Developer passionate about building web applications 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 #### Tools and Platforms
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -33,25 +40,32 @@ I'm an Aspiring Full Stack Developer passionate about building web applications 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 
+## 🚀 Featured Projects
+
+### 🛒 E-commerce App  
+A fully functional **React e-commerce application** with Firebase authentication, Redux state management, and Stripe integration.  
+🔗 [View Project](https://your-live-project-link) | 🛠️ [GitHub Repo](https://github.com/yourrepo)
+
+### ⏳ Pomodoro Timer  
+A **React-based Pomodoro timer** to boost productivity.  
+🔗 [Live Demo](https://your-live-demo) | 🛠️ [GitHub Repo](https://github.com/yourrepo)
+
 ### 🏆 GitHub Achievements
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=deepakpatil26&theme=radical&no-frame=true&margin-w=15)
 
 ### 📊 My GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakpatil26&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepakpatil26&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakpatil26&theme=radical" alt="GitHub Streak" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakpatil26&show_icons=true&theme=radical&count_private=true)
 
 ### 🔥 Contribution Streak
 
-![Deepak's GitHub Contribution Graph](https://ghchart.rshah.org/deepakpatil26)
+![Deepak's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=deepakpatil26&theme=radical)
 
 ### 🧩 Fun Fact
 
-⚡ I love solving Data Structures and Algorithms (DSA) problems in my free time - turning complex challenges into elegant solutions!
+🎮 **Hobbies:** Playing ARAM in **League of Legends**, exploring tech blogs, and solving coding challenges.  
+💡 **Fun Fact:** My first coding project was a **2048 game** built with React!
 
 ### 📫 Let's Connect!
 
@@ -70,3 +84,4 @@ I'm an Aspiring Full Stack Developer passionate about building web applications 
 ---
 
 *Crafting code, solving problems, and pushing boundaries - one commit at a time* 💻✨
+
