@@ -60,7 +60,7 @@ A **React-based Pomodoro timer** to boost productivity.
 
 ### 🔥 Contribution Streak
 
-![Deepak's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=deepakpatil26&theme=radical)
+![Deepak's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepakpatil26&theme=radical)
 
 ### 🧩 Fun Fact
 
