@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deepakpatil26&label=Profile%20views&color=0e75b6&style=flat)
 
-![Deepak Patil](https://your-image-link-here)
+![Deepak Patil](https://github.com/user-attachments/assets/16780b93-d8bb-4fff-9994-10cd58d0e052)
 
 ### 🔍 About Me
 
