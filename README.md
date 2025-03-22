@@ -42,13 +42,13 @@ I'm an **Aspiring Full Stack Developer** passionate about building web applicati
 
 ## 🚀 Featured Projects
 
-### 🛒 E-commerce App  
-A fully functional **React e-commerce application** with Firebase authentication, Redux state management, and Stripe integration.  
-🔗 [View Project](https://your-live-project-link) | 🛠️ [GitHub Repo](https://github.com/yourrepo)
+### 🛒 2048 Game  
+A **React implementation of the 2048 game**, my first coding project! 
+🔗 [View Project](https://deepakpatil26.github.io/react_2048_game/) | 🛠️ [GitHub Repo](https://github.com/deepakpatil26/react_2048_game)
 
-### ⏳ Pomodoro Timer  
-A **React-based Pomodoro timer** to boost productivity.  
-🔗 [Live Demo](https://your-live-demo) | 🛠️ [GitHub Repo](https://github.com/yourrepo)
+### ⏳ Recipe App
+A **React-based recipe app** for browsing and saving favourite recipes.
+🔗 [Live Demo](https://deepakpatil26.github.io/react-recipe-app/) | 🛠️ [GitHub Repo](https://github.com/deepakpatil26/react-recipe-app)
 
 ### 🏆 GitHub Achievements
 
