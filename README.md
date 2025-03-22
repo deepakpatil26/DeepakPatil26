@@ -42,13 +42,15 @@ I'm an **Aspiring Full Stack Developer** passionate about building web applicati
 
 ## 🚀 Featured Projects
 
-### 🛒 2048 Game  
-A **React implementation of the 2048 game**, my first coding project! 
-🔗 [View Project](https://deepakpatil26.github.io/react_2048_game/) | 🛠️ [GitHub Repo](https://github.com/deepakpatil26/react_2048_game)
+### 🎮 2048 Game
+
+A **React implementation of the 2048 game**, my first coding project!\
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-brightgreen?style=for-the-badge)](https://deepakpatil26.github.io/react_2048_game/) [![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-blue?style=for-the-badge&logo=github)](https://github.com/deepakpatil26/react_2048_game)
 
 ### 🍽️ Recipe App
-A **React-based recipe app** for browsing and saving favourite recipes.
-🔗 [Live Demo](https://deepakpatil26.github.io/react-recipe-app/) | 🛠️ [GitHub Repo](https://github.com/deepakpatil26/react-recipe-app)
+
+A **React-based recipe app** for browsing and saving favourite recipes.\
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-brightgreen?style=for-the-badge)](https://deepakpatil26.github.io/react-recipe-app/) [![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-blue?style=for-the-badge&logo=github)](https://github.com/deepakpatil26/react-recipe-app)
 
 ### 🏆 GitHub Achievements
 
