@@ -64,6 +64,10 @@ A **React-based recipe app** for browsing and saving favourite recipes.\
 
 ![Deepak's GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=deepakpatil&theme=radical)
 
+### 📅 Contribution Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepakpatil26&theme=radical)
+
 ### 🧩 Fun Fact
 
 🎮 **Hobbies:** Playing ARAM in **League of Legends**, exploring tech blogs, and solving coding challenges.  
