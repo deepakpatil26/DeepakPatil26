@@ -6,7 +6,10 @@
 
 ### 🔍 About Me
 
-I'm an **Aspiring Full Stack Developer** with a passion for building innovative web solutions and diving deep into cutting-edge technologies. My journey in tech is driven by curiosity, continuous learning, and a love for solving complex problems.
+I'm an Aspiring Full Stack Developer passionate about building web applications and cloud solutions.
+🚀 I love working with React, Node.js, and Cloud technologies to create high-performance, scalable applications.
+💡 My goal is to leverage cloud computing and build cutting-edge, efficient web solutions.
+ My journey in tech is driven by curiosity, continuous learning, and a love for solving complex problems.
 
 ### 🚀 Current Focus
 
