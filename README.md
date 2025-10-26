@@ -1,5 +1,7 @@
 # Hi there! I'm Deepak Dilip Patil 👋🚀
 
+![completing_task_alongwith_music](https://github.com/user-attachments/assets/df5ec30f-51c8-4904-b5c7-e8f56c344c36)
+
 ## 🚀 Turning Ideas into Scalable Applications | Cloud Enthusiast | Full Stack Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deepakpatil26&label=Profile%20views&color=0e75b6&style=flat)
