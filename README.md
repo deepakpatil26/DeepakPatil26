@@ -107,7 +107,7 @@ A **React-based recipe app** for browsing and saving favourite recipes.
 ### 📄 Quick Links
 
 - 👨‍💻 **Portfolio:** [Explore My Projects](https://deepakpatil26.github.io/)
-- 📄 **Resume:** [View My Experience](https://drive.google.com/file/d/1Wk0yLKu6dbqWrdDC7c5zeedpJ7WF7qWd/view?usp=sharing)
+- 📄 **Resume:** [View My Experience](https://drive.google.com/file/d/1WWocTixdeWLw55UyYjcK9ajGnh5oSuUa/view?usp=sharing)
 - ✉️ **Email:** deepakpatil2612@gmail.com
 
 ---
