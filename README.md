@@ -1,14 +1,17 @@
 # Hi there! I'm Deepak Dilip Patil 👋🚀
 
-![completing_task_alongwith_music](https://github.com/user-attachments/assets/df5ec30f-51c8-4904-b5c7-e8f56c344c36)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/df5ec30f-51c8-4904-b5c7-e8f56c344c36" alt="Deepak coding" width="600"/>
+</div>
 
 ## 🚀 Turning Ideas into Scalable Applications | Cloud Enthusiast | Full Stack Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deepakpatil26&label=Profile%20views&color=0e75b6&style=flat)
 
-![Deepak Patil](https://github.com/user-attachments/assets/16780b93-d8bb-4fff-9994-10cd58d0e052)
 
 ### 🔍 About Me
+
+![Deepak Patil](https://github.com/user-attachments/assets/16780b93-d8bb-4fff-9994-10cd58d0e052)
 
 I'm an **Aspiring Full Stack Developer** passionate about building web applications and cloud solutions.  
 🚀 I love working with **React, Node.js, and Cloud technologies** to create high-performance, scalable applications.  
@@ -16,12 +19,10 @@ I'm an **Aspiring Full Stack Developer** passionate about building web applicati
 
 ### 🚀 Current Focus
 
-- 🔭 **Currently Working on:**  
-  - Integrating AWS services into my applications for scalability and security  
-  - Exploring **AWS Lambda, S3, and DynamoDB** for serverless development  
-  - Enhancing DevOps skills using **CI/CD pipelines**  
-- 🌱 **Learning:** TypeScript, Redux, and Advanced React Concepts  
-- 💡 **Tech Passion:** Exploring the intersection of cloud computing and modern web development  
+- 🔭 **Working On:** Integrating **AWS services** for scalability and security  
+- ⚙️ Exploring **AWS Lambda**, **S3**, and **DynamoDB** for serverless apps  
+- 🧩 Building **CI/CD pipelines** and improving DevOps practices  
+- 🌱 **Learning:** TypeScript, Redux, and Advanced React Concepts
 
 ### 💻 Tech Arsenal
 
@@ -64,7 +65,7 @@ A **React-based recipe app** for browsing and saving favourite recipes.\
 
 ### 🔥 Contribution Streak
 
-![Deepak's GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=deepakpatil&theme=radical)
+![Deepak's GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=deepakpatil26&theme=radical)
 
 ### 📅 Contribution Graph
 
@@ -92,4 +93,7 @@ A **React-based recipe app** for browsing and saving favourite recipes.\
 ---
 
 *Crafting code, solving problems, and pushing boundaries - one commit at a time* 💻✨
+
+💬 Feel free to reach out — I love collaborating on exciting tech projects or just chatting about cloud & full stack development!
+
 
