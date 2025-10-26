@@ -8,6 +8,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deepakpatil26&label=Profile%20views&color=0e75b6&style=flat)
 
+---
 
 ### 🔍 About Me
 
@@ -17,16 +18,21 @@ I'm an **Aspiring Full Stack Developer** passionate about building web applicati
 🚀 I love working with **React, Node.js, and Cloud technologies** to create high-performance, scalable applications.  
 💡 My goal is to **leverage cloud computing** and build cutting-edge, efficient web solutions.  
 
+---
+
 ### 🚀 Current Focus
 
 - 🔭 **Working On:** Integrating **AWS services** for scalability and security  
 - ⚙️ Exploring **AWS Lambda**, **S3**, and **DynamoDB** for serverless apps  
 - 🧩 Building **CI/CD pipelines** and improving DevOps practices  
-- 🌱 **Learning:** TypeScript, Redux, and Advanced React Concepts
+- 🌱 **Learning:** TypeScript, Redux, and Advanced React Concepts  
+- 💡 **Tech Passion:** Exploring the intersection of cloud computing and modern web development  
+
+---
 
 ### 💻 Tech Arsenal
 
-#### Languages and Frameworks
+#### 🧠 Languages and Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -36,45 +42,57 @@ I'm an **Aspiring Full Stack Developer** passionate about building web applicati
 ![Redux Toolkit](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-#### Tools and Platforms
+#### 🧰 Tools and Platforms
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 
+---
+
 ## 🚀 Featured Projects
 
 ### 🎮 2048 Game
-
-A **React implementation of the 2048 game**, my first coding project!\
+A **React implementation of the 2048 game**, my first coding project!  
 [![Live Demo](https://img.shields.io/badge/-Live%20Demo-brightgreen?style=for-the-badge)](https://deepakpatil26.github.io/react_2048_game/) [![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-blue?style=for-the-badge&logo=github)](https://github.com/deepakpatil26/react_2048_game)
 
 ### 🍽️ Recipe App
-
-A **React-based recipe app** for browsing and saving favourite recipes.\
+A **React-based recipe app** for browsing and saving favourite recipes.  
 [![Live Demo](https://img.shields.io/badge/-Live%20Demo-brightgreen?style=for-the-badge)](https://deepakpatil26.github.io/react-recipe-app/) [![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-blue?style=for-the-badge&logo=github)](https://github.com/deepakpatil26/react-recipe-app)
+
+---
 
 ### 🏆 GitHub Achievements
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=deepakpatil26&theme=radical&no-frame=true&margin-w=15)
 
+---
+
 ### 📊 My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakpatil26&show_icons=true&theme=radical&count_private=true)
+
+---
 
 ### 🔥 Contribution Streak
 
 ![Deepak's GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=deepakpatil26&theme=radical)
 
+---
+
 ### 📅 Contribution Graph
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepakpatil26&theme=radical)
+
+---
 
 ### 🧩 Fun Fact
 
 🎮 **Hobbies:** Playing ARAM in **League of Legends**, exploring tech blogs, and solving coding challenges.  
 💡 **Fun Fact:** My first coding project was a **2048 game** built with React!
+
+---
 
 ### 📫 Let's Connect!
 
@@ -84,6 +102,8 @@ A **React-based recipe app** for browsing and saving favourite recipes.\
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/deepakpatil_2612)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://www.leetcode.com/deepakpatil26)
 
+---
+
 ### 📄 Quick Links
 
 - 👨‍💻 **Portfolio:** [Explore My Projects](https://deepakpatil26.github.io/)
@@ -92,8 +112,8 @@ A **React-based recipe app** for browsing and saving favourite recipes.\
 
 ---
 
-*Crafting code, solving problems, and pushing boundaries - one commit at a time* 💻✨
-
 💬 Feel free to reach out — I love collaborating on exciting tech projects or just chatting about cloud & full stack development!
 
+---
 
+*Crafting code, solving problems, and pushing boundaries — one commit at a time* 💻✨
