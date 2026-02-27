@@ -95,7 +95,7 @@ I'm an **Aspiring Full Stack Developer** passionate about building web applicati
 ### 📄 Quick Links
 
 - 👨‍💻 **Portfolio:** [Explore My Projects](https://deepakpatil26.github.io/)
-- 📄 **Resume:** [View My Experience](https://drive.google.com/file/d/1WWocTixdeWLw55UyYjcK9ajGnh5oSuUa/view?usp=sharing)
+- 📄 **Resume:** [View My Experience](https://drive.google.com/file/d/1Jy3oiHCwV_2O_tobK48LLaudEweR-9df/view?usp=sharing)
 - ✉️ **Email:** deepakpatil2612@gmail.com
 
 ---
